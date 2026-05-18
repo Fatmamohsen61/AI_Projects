@@ -1,4 +1,3 @@
- AI / Data Science Projects Portfolio
 🎯 Objective
 The goal of this portfolio is to:
 Analyze and understand data effectively
